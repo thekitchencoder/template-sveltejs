@@ -10,7 +10,7 @@ If you are looking for a SvelteKit example, please use [template-sveltekit](http
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-sveltejs)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/thekitchencoder/template-sveltejs)
 
 ## Get Started With Your Own Project
 
